@@ -1,9 +1,7 @@
-### Publicly available resources for Apple TV signage.
+### Publicly available resources for Trinity backgrounds and assets
 
-Playlist must meet format of:<br/> 
-`https://raw.githubusercontent.com/trinity-it/resourcesAppleTV/a92d995969aba1d893f73eea42922797ca80a3e4/playlist.csv`
+##Link format
+https://github.com/trinity-it/resources-trinity-bg/raw/main/<image-name>.png
 
-Image must meet format of:<br/>
-`https://github.com/trinity-it/resourcesAppleTV/raw/main/Trinity.png`
-
-Playlist must not have blank lines.
+##Example
+https://github.com/trinity-it/resources-trinity-bg/raw/main/Trinity.png
